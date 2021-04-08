@@ -15,7 +15,7 @@ My name is Abhishek and I am a Back-end Developer.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/atiwari233) | [LinkedIn](https://linkedin.com/in/atiwari233)
 
-I recently came across two open source projects which I am planning to contribute. And I am also going to note this in blog post which I will update here. 
+I recently came across two open source projects(Language tool and Signal) which I am planning to contribute. And I am also going to blog it. 
 
 
 
